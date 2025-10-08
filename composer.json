@@ -1,0 +1,6 @@
+{
+    "name": "nection/gestio_equipaments",
+    "type": "drupal-module",
+    "description": "Mòdul personalitzat gestio_equipaments",
+    "license": "GPL-2.0-or-later"
+}
